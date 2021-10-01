@@ -14,3 +14,5 @@ console.log(eleccionServer);
 ```
 
 © Pablo Inostroza 2021
+
+![Screenshot](Captura.PNG)
