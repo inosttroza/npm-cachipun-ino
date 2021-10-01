@@ -8,6 +8,9 @@ Desarrollo subido a NPM(Node Package Manager) con el nombre de 'cachipun-ino'
 **Ejemplo:**
 ```
 const {eleccionServer} = require('cachipun-ino');
+console.log(eleccionServer());
+o
+const eleccionServer = require('cachipun-ino').eleccionServer();
 console.log(eleccionServer);
 ```
 
