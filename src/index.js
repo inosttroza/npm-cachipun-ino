@@ -1,5 +1,5 @@
 //desarrollo que retorna piedra, papel o tijera desde el lado del server
-const eleccionServer = () => {
+function eleccionServer(){
     const number = Math.floor(Math.random() * 3);
     switch (number) {
         case 0:

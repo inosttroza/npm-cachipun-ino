@@ -1,7 +1,9 @@
 # cachipun-ino
 
 ```
-Desarrollo que retorna piedra, papel o tijera desde el lado del servidor
+Retorna piedra, papel o tijera desde el lado del servidor.
+Desarrollo subido a NPM(Node Package Manager) con el 
+nombre de 'cachipun-ino'
 ```
 
 **Ejemplo:**
