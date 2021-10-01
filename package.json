@@ -1,6 +1,6 @@
 {
   "name": "cachipun-ino",
-  "version": "1.0.5",
+  "version": "1.0.8",
   "description": "desarrollo simple que retorna al azar piedra, papel o tijera desde el lado del servidor",
   "main": "src/index.js",
   "scripts": {
